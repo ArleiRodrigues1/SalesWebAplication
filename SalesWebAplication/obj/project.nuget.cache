@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kwuku6YzRMqR5taxuOpcCkSD7WoGVNgv6vFMw1ldLeQ8O9QK8YX97NkQUcTWbxKxK2ec4f4yKVhmxcj+3nbxhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arlei.eduardo-PC\\source\\repos\\SalesWebAplication\\SalesWebAplication\\SalesWebAplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arlei.eduardo-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
