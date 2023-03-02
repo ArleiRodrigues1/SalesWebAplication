@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using SalesWebAplication.Models.ViewModels;
 
 namespace SalesWebAplication.Controllers
 {
@@ -29,7 +30,6 @@ namespace SalesWebAplication.Controllers
 
             return View();
         }
-
         public IActionResult Privacy()
         {
             return View();

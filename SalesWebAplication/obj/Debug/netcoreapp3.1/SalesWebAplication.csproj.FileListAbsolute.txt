@@ -108,3 +108,4 @@ C:\Users\Arlei.eduardo-PC\source\repos\SalesWebAplication\SalesWebAplication\bin
 C:\Users\Arlei.eduardo-PC\source\repos\SalesWebAplication\SalesWebAplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Arlei.eduardo-PC\source\repos\SalesWebAplication\SalesWebAplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Arlei.eduardo-PC\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Arlei.eduardo-PC\source\repos\SalesWebAplication\SalesWebAplication\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
